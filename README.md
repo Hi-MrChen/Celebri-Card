@@ -5,5 +5,8 @@
 
 在目录下 yarn start 即可
 
-你应该能看到如下界面 
-啦啦啦
+你应该能看到如下界面  
+
+![Image text](./Initial_page.jpg)
+
+
